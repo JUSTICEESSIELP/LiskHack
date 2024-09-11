@@ -82,7 +82,17 @@ check the user app and the driver apps each has the some queries that can be use
 | Backend API         | [https://github.com/JUSTICEESSIELP/ethSafari_Gyema_server)     |
 | Websockets API      | https://github.com/JUSTICEESSIELP/ethSafari_Gyema_websockets     |
 | Frontend User       | (https://github.com/JUSTICEESSIELP/ethSafari_Gyema-userMobileApp)     |
-| Frontend Driver     | (https://github.com/JUSTICEESSIELP/ethSafari_Gyema-driverApp)                                                   
+| Frontend Driver     | (https://github.com/JUSTICEESSIELP/ethSafari_Gyema-driverApp)        
+
+
+
+
+## Contract Addresses on Base
+
+  EmissionsCalculator deployed: 0x81fA8104FFFf45373519D52CD2736ec99d7F39aC
+  CarbonSavingsTracker deployed : 0x8f387E8b8e885D6BAcEE961D867b52617114Fb42
+  DeliveryFactory deployed : 0x581ddda1D64384A0A70887D0c2f1d2bb69C722fB
+  DeliveryContractReactive: 0x6eAc0a0a6f00b5c13708a523a86FB9892B54B078
 |                                                              
 
 ## Acknowledgements
