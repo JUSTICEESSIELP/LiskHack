@@ -77,13 +77,14 @@ check the user app and the driver apps each has the some queries that can be use
 ## Repository Links
 | Component           | Link                                                                                          |
 | ------------------- | --------------------------------------------------------------------------------------------- |
-| Smart Contracts     | [https://github.com/JUSTICEESSIELP/ethSafari_GyemaContract] (https://github.com/JUSTICEESSIELP/ethSafari_GyemaContract)                                                              |
-| The Subgraph        | [https://github.com/JUSTICEESSIELP/ethSafari_Gyema-Subgraph-] (https://github.com/JUSTICEESSIELP/ethSafari_Gyema-Subgraph-)                                                                 |
-| Backend API         | https://github.com/-functions                                                                 |
-| Frontend User       | https://github.com/Hurisoft/iexchange-app                                                     |
-| Frontend Driver     | https://github.com/Hurisoft/iexchange-app                                                     
+| Smart Contracts     | [https://github.com/JUSTICEESSIELP/ethSafari_GyemaContract]                                                            |
+| The Subgraph        | [https://github.com/JUSTICEESSIELP/ethSafari_Gyema-Subgraph-]                                                               |
+| Backend API         | [https://github.com/-functions](https://github.com/JUSTICEESSIELP/ethSafari_Gyema_server)     |
+| Websockets API      | [https://github.com/-functions](https://github.com/JUSTICEESSIELP/ethSafari_Gyema_server)     |
+| Frontend User       | (https://github.com/JUSTICEESSIELP/ethSafari_Gyema-userMobileApp)     |
+| Frontend Driver     | (https://github.com/JUSTICEESSIELP/ethSafari_Gyema-driverApp)                                                   
 |                                                              
-| UI/UX Design        | https://www.figma.com/design/rsld8nJabbyecSqdg2TlGK/Untitled?node-id=0-1&t=zWRc9oZdGCzksM44-0 |
+
 ## Acknowledgements
 
  - [Mr Eric Anaan](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
