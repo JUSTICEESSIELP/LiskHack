@@ -77,8 +77,8 @@ check the user app and the driver apps each has the some queries that can be use
 ## Repository Links
 | Component           | Link                                                                                          |
 | ------------------- | --------------------------------------------------------------------------------------------- |
-| Smart Contracts     | https://github.com//-contracts                                                                |
-| The Subgraph        | https://github.com/-subgraphs                                                                 |
+| Smart Contracts     | [https://github.com/JUSTICEESSIELP/ethSafari_GyemaContract] (https://github.com/JUSTICEESSIELP/ethSafari_GyemaContract)                                                              |
+| The Subgraph        | [https://github.com/JUSTICEESSIELP/ethSafari_Gyema-Subgraph-] (https://github.com/JUSTICEESSIELP/ethSafari_Gyema-Subgraph-)                                                                 |
 | Backend API         | https://github.com/-functions                                                                 |
 | Frontend User       | https://github.com/Hurisoft/iexchange-app                                                     |
 | Frontend Driver     | https://github.com/Hurisoft/iexchange-app                                                     
