@@ -1,7 +1,7 @@
 
 # ETH SAFARI GYEMA PROJECT
 
-Gyema is an interstate logistics platform that links drivers to users in order to have good delievered seamless.
+Gyema is an interstate logistics platform that links drivers to users in order to have good delievered seamlessly.
 
 
 
