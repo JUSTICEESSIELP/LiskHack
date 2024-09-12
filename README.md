@@ -95,7 +95,7 @@ check the user app and the driver apps each has the some queries that can be use
 |  EmissionsCalculator :     | 0x81fA8104FFFf45373519D52CD2736ec99d7F39aC (https://sepolia.basescan.org/address/0x81fA8104FFFf45373519D52CD2736ec99d7F39aC)                                                            |
 |  CarbonSavingsTracker        |  0x8f387E8b8e885D6BAcEE961D867b52617114Fb42    (https://sepolia.basescan.org/address/0x8f387E8b8e885D6BAcEE961D867b52617114Fb42)                                                             |
 | DeliveryFactory     | 0x581ddda1D64384A0A70887D0c2f1d2bb69C722fB (https://sepolia.basescan.org/address/0x581ddda1D64384A0A70887D0c2f1d2bb69C722fB)     |
-|   DeliveryContractReactive:   |  0x6eAc0a0a6f00b5c13708a523a86FB9892B54B078 (https://sepolia.basescan.org/address/ 0x6eAc0a0a6f00b5c13708a523a86FB9892B54B078)     |
+|   DeliveryContractReactive:   |  0x6eAc0a0a6f00b5c13708a523a86FB9892B54B078 (https://sepolia.basescan.org/address/0x6eAc0a0a6f00b5c13708a523a86FB9892B54B078)|
 
 
                                                            
