@@ -6,11 +6,14 @@ Gyema is an interstate logistics platform that links drivers to senders in order
 
 ## Screenshots
 
-https://photos.google.com/photo/AF1QipP2TxfOvgogor9VGWslIZ_3YtBE_NeGapq-3oCv
+![Logo](https://photos.google.com/photo/AF1QipOM_H-wH3aGfEbQtqEV67mX6TPApvJPDD1NkcUn)
 
-https://photos.google.com/photo/AF1QipOM_H-wH3aGfEbQtqEV67mX6TPApvJPDD1NkcUn
 
-https://photos.google.com/photo/AF1QipOnRpgEo2g4mQckUwsXmyGuxAlxhCslB9q80wtR
+![Logo](https://photos.google.com/photo/AF1QipP2TxfOvgogor9VGWslIZ_3YtBE_NeGapq-3oCv)
+
+
+![Logo](https://photos.google.com/photo/AF1QipOnRpgEo2g4mQckUwsXmyGuxAlxhCslB9q80wtR)
+
 
 
 
