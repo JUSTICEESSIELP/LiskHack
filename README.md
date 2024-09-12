@@ -83,7 +83,7 @@ check the user app and the driver apps each has the some queries that can be use
 | Websockets API      | https://github.com/JUSTICEESSIELP/ethSafari_Gyema_websockets     |
 | Frontend User       | (https://github.com/JUSTICEESSIELP/ethSafari_Gyema-userMobileApp)     |
 | Frontend Driver     | (https://github.com/JUSTICEESSIELP/ethSafari_Gyema-driverApp)        
-
+|  ICP Oracle         | (https://github.com/JUSTICEESSIELP/ethSafari_Gyema_ICP_EMISSION_ORACLE-)
 
 
 
