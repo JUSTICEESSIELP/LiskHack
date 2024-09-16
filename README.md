@@ -93,7 +93,7 @@ check the user app and the driver apps each has the some queries that can be use
 | Component           | Link                                                                                          |
 | ------------------- | --------------------------------------------------------------------------------------------- |
 | Smart Contracts     | [https://github.com/JUSTICEESSIELP/ethSafari_GyemaContract]                                                            |
-| The Subgraph        | [https://github.com/JUSTICEESSIELP/ethSafari_Gyema-Subgraph-]                                                               |
+| The Subgraph        | [https://github.com/JUSTICEESSIELP/ethSafari_Gyema_subgraph/blob/master/schema.graphql]                                                               |
 | Backend API         | [https://github.com/JUSTICEESSIELP/ethSafari_Gyema_server)     |
 | Websockets API      | https://github.com/JUSTICEESSIELP/ethSafari_Gyema_websockets     |
 | Frontend User       | (https://github.com/JUSTICEESSIELP/ethSafari_Gyema-userMobileApp)     |
