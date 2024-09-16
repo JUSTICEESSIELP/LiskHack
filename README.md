@@ -81,7 +81,7 @@ Gyema is an interstate logistics platform that links drivers to senders in order
 
 ## Subgraph queries
 
-https://api.studio.thegraph.com/query/87334/gyema-/version/latest
+[https://api.studio.thegraph.com/query/87334/gyema-/version/latest](https://api.studio.thegraph.com/proxy/87334/gyema/0.0.2/graphql?query=query+MyQuery+%7B%0A%0A++deliveryContractCreateds+%7B%0A++++blockNumber%0A++++%0A++%7D%0A%0A++%0A%7D#)
 
 check the user app and the driver apps each has the some queries that can be used for judging purposes
 
