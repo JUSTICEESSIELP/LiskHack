@@ -1,5 +1,5 @@
 
-# ETH SAFARI GYEMA PROJECT
+# Lisk Hackathon GYEMA PROJECT
 
 Gyema is an interstate logistics platform that links drivers to senders in order to have good delievered seamlessly.
 
